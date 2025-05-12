@@ -1,16 +1,16 @@
-## Hi there 👋
+# About me 👋
 
-<!--
+
 **RLing01730/RLing01730** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on the MIT xPro Computer Coding Bootcamp
+- 🌱 I’m currently learning how to use GitHub
+- 👯 I’m looking to collaborate on the module projects
+- 🤔 I’m looking for help with *Visual Studio Code*  😵‍💫
+
+- 📫 How to reach me: rling505@gmail.com or by text message.
+
+- ⚡ Fun fact: I remember watching the first Saturday Night Live ("SNL") episode when it first aired and it was called "NBC Saturday Night with the Not Ready for Prime Time Players".
+
