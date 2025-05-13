@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: rling505@gmail.com or by text message.
 
-- ⚡ Fun fact: I remember watching the first Saturday Night Live ("SNL") episode when it first aired and it was called "NBC Saturday Night with the Not Ready for Prime Time Players".
+- ⚡ Fun fact:  Luv Dunkin' Donuts coffee.
 
